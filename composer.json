@@ -1,0 +1,10 @@
+{
+    "name": "amazon-mws-unofficial/MWSRecommendationsSectionService",
+    "type": "library",
+    "license": "Apache License",
+    "autoload": {
+        "psr-0": {
+            "": "src/"
+        }
+    }
+}
