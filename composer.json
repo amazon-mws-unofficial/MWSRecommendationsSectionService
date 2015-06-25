@@ -1,5 +1,5 @@
 {
-    "name": "amazon-mws-unofficial/MWSRecommendationsSectionService",
+    "name": "amazon-mws-unofficial/mws-recommendations-section-service",
     "type": "library",
     "license": "Apache License",
     "autoload": {
